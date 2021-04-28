@@ -1,5 +1,5 @@
 # EDA_Bank_Marketing_Project
-Complete data analysis on Bank data, whether the person accepts the loan or not, using marketing campaign data.
+Complete data analysis on Bank data, whether the person subscribes the term deposit or not, using marketing campaign data.
 
 Data Set Information:
 A Term deposit is a deposit that a bank or a financial institution offers with a fixed rate (often better
